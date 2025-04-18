@@ -1,0 +1,8 @@
+.idea
+.ipynb_checkpoints
+.vscode
+images
+venv
+emotion_model.h5
+emotiondetector.h5
+emotiondetector.keras
